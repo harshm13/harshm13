@@ -13,11 +13,6 @@
 * ⚙️ Git & GitHub
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
----
 ## 🚀 Projects
 
 * 🔹 Hackathon Project (coming soon...)
