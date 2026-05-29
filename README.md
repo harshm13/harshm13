@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Harsh
 
-<!--
-**harshm13/harshm13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at SOU
+💻 Learning C, Web Development & Problem Solving
+🚀 Passionate about building projects & hackathons
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* 💡 C Programming
+* 🌐 HTML, CSS, JavaScript 
+* ⚙️ Git & GitHub
+
+---
+
+## 🚀 Projects
+
+* 🔹 Hackathon Project (coming soon...)
+* 🔹 Mini C Programs
+
+---
+
+## 📈 Currently Learning
+
+* Data Structures (basics)
+* Web Development
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/harshm13
+
+---
+
+⭐ "Building skills one project at a time"
