@@ -1,4 +1,10 @@
-# Hi there 👋, I'm Harsh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Harsh%20&fontSize=70" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+with+Python" alt="Typing SVG" />
+</p>
 
 🎓 IT Student at SOU
 💻 Learning C, Web Development & Problem Solving
