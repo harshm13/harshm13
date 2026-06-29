@@ -9,21 +9,21 @@
 ---
 ## 🔧 Tech Stack
 
-* 💡 C Programming
-* 🌐 HTML, CSS, JavaScript 
+* 💡 Programmin
+* 🌐 HTML, CSS, JavaScript, C++, Python, TypeScript 
 * ⚙️ Git & GitHub
 
 ---
 ## 🚀 Projects
 
-* 🔹 Hackathon Project (coming soon...)
-* 🔹 Mini C Programs
+* 🔹 The Last MInute Life Saver
+* 🔹 Multiple Hackathon Projects
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Pursuing
 
-* Data Structures (basics)
+* Data Structures(Deeply) 
 * Web Development
 
 ---
