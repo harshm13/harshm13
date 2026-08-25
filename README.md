@@ -18,9 +18,18 @@
 * **[ResumeOS](https://github.com/harshm13/ResumeOS)** — An AI-powered Career Operating System featuring a split-screen live builder and real-time ATS optimization. Built with React, Tailwind v4, and Framer Motion.
 * **[TaskMind](https://github.com/harshm13/TaskMind)** — A premium AI-Driven Agile Workspace with a drag-and-drop Kanban engine and automated sprint analytics.
 * **[Codex AI – NexusVoid](https://github.com/harshm13/NexusVoid)** — Autonomous AI coding assistant platform with prompt management and live code execution previews.
-* **[GlobeTrotter](https://github.com/harshm13/GlobeTrotter-NexusVoid)** — 🏆 *Odoo x LDCE Hackathon Project* | A high-performance travel itinerary planner and budget tracker featuring a glassmorphism UI.
+* **[GlobeTrotter](https://github.com/harshm13/GlobeTrotter-NexusVoid)** — A high-performance travel itinerary planner and budget tracker featuring a glassmorphism UI.
+* **[Project Atlas](https://github.com/harshm13/ProjectAtlas)** — Futuristic AI-Inspired personal portfolio engineered with React, Vite, Framer Motion, and a 60FPS dynamic particle mesh.
 * **[TransitOps](https://github.com/harshm13/TransitOps)** — Enterprise-level fleet management and route operations dashboard.
 * **[The Last-Minute Life Saver](https://github.com/harshm13/LastMinuteLifeSaver)** — An intelligent AI task prioritizer and scheduling assistant.
+
+---
+
+## 🏆 Achievements & Hackathons
+
+* **Vibe2Ship Hackathon** — *Coding Ninjas x Google for Developers* | Architected AI-powered solutions under strict deadlines in India's biggest vibe coding hackathon.
+* **Odoo x LDCE Hackathon** — *Team NexusVoid* | Engineered the full-stack architecture for the GlobeTrotter project.
+* **AI Workshop Certification** — *TechSquarers* | Completed the "Build Your First AI" intensive technical workshop.
 
 ---
 
