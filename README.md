@@ -157,7 +157,7 @@
 | 🌐 **Portfolio** | [projectatlass.ai.studio](https://projectatlass.ai.studio) | Interactive 60FPS Cinematic Portfolio |
 | 💻 **Atlas Code** | [harshm13/ProjectAtlas](https://github.com/harshm13/ProjectAtlas) | Portfolio Source Code & Shader Physics |
 | 🐙 **GitHub** | [@harshm13](https://github.com/harshm13) | Open-Source Systems & Research |
-| 💼 **LinkedIn** | [/in/harshm13](https://www.linkedin.com/in/harshm13) | Professional Updates & Career |
+| 💼 **LinkedIn** | [@harshm13](https://www.linkedin.com/in/harshm13) | Professional Updates & Career |
 | 📸 **Instagram** | [@mehta_harsh13](https://www.instagram.com/mehta_harsh13) | Tech Videos, AI Workflows & Cinematic Code |
 | ▶️ **YouTube** | [@harshm13](https://www.youtube.com/@harshm13) | Tech Demos, Tutorials & Hackathon Vlogs |
 | 📬 **Direct Email** | [hm1304008@gmail.com](mailto:hm1304008@gmail.com) | Collaboration & Opportunities |
