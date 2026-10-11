@@ -2,7 +2,82 @@
 
 <div align="center">
 
+<!-- 1. Hero Banner (Links to Live Portfolio Studio instead of raw SVG) -->
+<a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/hero.svg?v=1" alt="Harsh Mehta - AI Full-Stack Developer & SIH 2026 Finalist" width="100%" />
+</a>
 
+<br>
+
+<!-- 2. Capabilities & Carousel (Links to AgroBridge SIH Finalist Repository) -->
+<a href="https://github.com/harshm13/AgroBridge-SIH26132" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/about-life.svg?v=1" alt="Engineering Pillars & Interests Carousel" width="100%" />
+</a>
+
+<br>
+
+<!-- 3. Tech Stack Elliptical Orbits (Links to Project Atlas Shaders) -->
+<a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/stack.svg?v=1" alt="Tech Stack Orbital Infrastructure" width="100%" />
+</a>
+
+<br>
+
+<!-- 4. Verified Identity Pass (Links to GitHub Profile) -->
+<a href="https://github.com/harshm13" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/id-dashboard.svg?v=1" alt="Verified Identity Pass & Telemetry" width="100%" />
+</a>
+
+<br>
+
+<!-- 5. Fully Clickable Connect Section: Every Card navigates to its Original Destination -->
+<table>
+  <tr>
+    <td rowspan="3" width="38%" valign="middle" align="center">
+      <a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/connect-character.svg?v=1" alt="Connect with Harsh Mehta" width="100%" />
+      </a>
+    </td>
+    <td width="31%" valign="top">
+      <a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-portfolio.svg?v=1" alt="Portfolio Studio" width="100%" />
+      </a>
+    </td>
+    <td width="31%" valign="top">
+      <a href="https://www.linkedin.com/in/harshm13" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-linkedin.svg?v=1" alt="LinkedIn" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="31%" valign="top">
+      <a href="https://github.com/harshm13" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-github.svg?v=1" alt="GitHub" width="100%" />
+      </a>
+    </td>
+    <td width="31%" valign="top">
+      <a href="https://www.instagram.com/mehta_harsh13" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-instagram.svg?v=1" alt="Instagram" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="31%" valign="top">
+      <a href="https://www.youtube.com/@harshm13" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-youtube.svg?v=1" alt="YouTube" width="100%" />
+      </a>
+    </td>
+    <td width="31%" valign="top">
+      <a href="mailto:hm1304008@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/card-email.svg?v=1" alt="Email Direct" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Quick Action Badges -->
 <p align="center">
   <a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio%20Studio-070B16?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=070B16" alt="Portfolio Studio" />
