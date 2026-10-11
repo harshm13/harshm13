@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌾 <a href="https://github.com/harshm13/AgroBridge-SIH26132">AgroBridge</a> <img src="https://img.shields.io/badge/SIH%20'26-FINALIST-10B981?style=flat-square" alt="SIH Finalist"/></h4>
+      <h4>🌾 <a href="https://github.com/harshm13/AgroBridge-SIH26031">AgroBridge</a> <img src="https://img.shields.io/badge/SIH%20'26-FINALIST-10B981?style=flat-square" alt="SIH Finalist"/></h4>
       <p>An AI-driven decision engine and market intelligence platform for farmers. Features predictive price forecasting, intelligent "Sell/Wait" recommendations, and automated buyer matching.</p>
       <p><strong>Stack:</strong> <code>React</code> · <code>Python</code> · <code>FastAPI</code> · <code>XGBoost</code> · <code>SHAP</code></p>
     </td>
