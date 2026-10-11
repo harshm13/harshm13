@@ -2,27 +2,7 @@
 
 <div align="center">
 
-![Intro](./assets/hero.svg?v=1)
 
-<br>
-
-![About](./assets/about-life.svg?v=1)
-
-<br>
-
-![Stack](./assets/stack.svg?v=1)
-
-<br>
-
-![ID](./assets/id-dashboard.svg?v=1)
-
-<br>
-
-![Connect](./assets/connect.svg?v=1)
-
-<br>
-
-<!-- Verified Real Clickable Social Endpoints (Links inside SVGs are not clickable on GitHub) -->
 <p align="center">
   <a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio%20Studio-070B16?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=070B16" alt="Portfolio Studio" />
