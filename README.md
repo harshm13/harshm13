@@ -60,7 +60,7 @@
   <tbody>
     <tr>
       <td valign="top">
-        <h4>🌾 <a href="https://github.com/harshm13/AgroBridge-SIH26031">AgroBridge</a> <img src="https://img.shields.io/badge/SIH%20'26-GRAND%20FINALIST-10B981?style=flat-square" alt="SIH Finalist"/></h4>
+        <h4>🌾 <a href="https://github.com/harshm13/AgroBridge-SIH26132">AgroBridge</a> <img src="https://img.shields.io/badge/SIH%20'26-GRAND%20FINALIST-10B981?style=flat-square" alt="SIH Finalist"/></h4>
         <p>AI-driven agricultural decision engine and market intelligence platform. Combines XGBoost predictive price forecasting, SHAP model interpretability, and automated direct buyer matchmaking.</p>
         <p><strong>Stack:</strong> <code>Python</code> · <code>FastAPI</code> · <code>XGBoost</code> · <code>SHAP</code> · <code>React</code></p>
       </td>
@@ -77,7 +77,7 @@
         <p><strong>Stack:</strong> <code>React</code> · <code>Tailwind CSS v4</code> · <code>Framer Motion</code> · <code>AI APIs</code></p>
       </td>
       <td valign="top">
-        <h4>💻 <a href="https://github.com/harshm13/codexai">Codex AI – NexusVoid</a></h4>
+        <h4>💻 <a href="https://github.com/harshm13/NexusVoid">Codex AI – NexusVoid</a></h4>
         <p>Autonomous AI coding assistant platform featuring multi-step prompt workflow orchestration, sandboxed code execution, and live multi-language previews.</p>
         <p><strong>Stack:</strong> <code>Node.js</code> · <code>Express</code> · <code>React</code> · <code>MongoDB</code> · <code>Groq LPU</code></p>
       </td>
@@ -125,13 +125,13 @@
 
 | Channel | Endpoint | Description |
 | :--- | :--- | :--- |
-| 🌐 **Portfolio** | [projectatlass.ai.studio](https://projectatlass.ai.studio) | Interactive 60FPS Cinematic Portfolio |
-| 💻 **Atlas Code** | [harshm13/ProjectAtlas](https://github.com/harshm13/ProjectAtlas) | Portfolio Source Code & Shader Physics |
-| 🐙 **GitHub** | [@harshm13](https://github.com/harshm13) | Open-Source Systems & Research |
-| 💼 **LinkedIn** | [@harshm13](https://www.linkedin.com/in/harshm13) | Professional Updates & Career |
+| 🌐 **Portfolio Studio** | [projectatlass.ai.studio](https://projectatlass.ai.studio) | Interactive 60FPS Cinematic Portfolio & Shaders |
+| 💻 **Atlas Source** | [harshm13/ProjectAtlas](https://github.com/harshm13/ProjectAtlas) | Portfolio Source Code & WebGL Particle Physics |
+| 🐙 **GitHub** | [@harshm13](https://github.com/harshm13) | Open-Source Systems, Microservices & Research |
+| 💼 **LinkedIn** | [/in/harshm13](https://www.linkedin.com/in/harshm13) | Professional Updates & Career Highlights |
 | 📸 **Instagram** | [@mehta_harsh13](https://www.instagram.com/mehta_harsh13) | Tech Videos, AI Workflows & Cinematic Code |
-| ▶️ **YouTube** | [@harshm13](https://www.youtube.com/@harshm13) | Tech Demos, Tutorials & Hackathon Vlogs |
-| 📬 **Direct Email** | [hm1304008@gmail.com](mailto:hm1304008@gmail.com) | Collaboration & Opportunities |
+| ▶️ **YouTube** | [@harshm13](https://www.youtube.com/@harshm13) | Architecture Demos, Tutorials & Hackathon Vlogs |
+| 📬 **Direct Email** | [hm1304008@gmail.com](mailto:hm1304008@gmail.com) | Engineering Roles, Collaborations & Opportunities |
 
 <br>
 
