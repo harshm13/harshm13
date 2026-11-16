@@ -122,7 +122,7 @@
       <td valign="top">
         <h4>⚡ <a href="https://github.com/harshm13/ProjectAtlas">Project Atlas</a> <a href="https://projectatlass.ai.studio" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square" alt="Live Demo"/></a></h4>
         <p>Cinematic AI-inspired personal portfolio engineered with 60FPS particle mesh dynamics, GPU canvas vertex shaders, reactive soundscapes, and responsive glassmorphism styling.</p>
-        <p><strong>Stack:</strong> <code>React</code> · <code>Three.js</code> · <code>Vite</code> · <code>Framer Motion</code> · <code>WebGL</code></p>
+        <p><strong>Stack:</strong> <code>React</code> · <code>Vite</code> · <code>Framer Motion</code> · <code>WebGL</code></p>
       </td>
     </tr>
     <tr>
