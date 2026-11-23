@@ -1,195 +1,99 @@
-# Harsh Mehta (harshm13)
-
 <div align="center">
-
-<!-- 1. Hero Banner (Links to Live Portfolio Studio instead of raw SVG) -->
-<a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/hero.svg?v=1" alt="Harsh Mehta - AI Full-Stack Developer & SIH 2026 Finalist" width="100%" />
-</a>
-
-<br>
-
-<!-- 2. Capabilities & Carousel (Links to AgroBridge SIH Finalist Repository) -->
-<a href="https://github.com/harshm13/AgroBridge-SIH26132" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/about-life.svg?v=1" alt="Engineering Pillars & Interests Carousel" width="100%" />
-</a>
+  <img src="./assets/hero.svg?v=2" alt="Harsh Mehta - Cyber Security & Full-Stack Development" width="100%" />
+  <img src="./assets/about-life.svg?v=2" alt="About Harsh Mehta" width="100%" />
+  <img src="./assets/stack.svg?v=2" alt="Tech Stack & Learning" width="100%" />
+  <img src="./assets/id-dashboard.svg?v=2" alt="Identity & Milestones" width="100%" />
+  <img src="./assets/connect.svg?v=2" alt="Connect with Harsh Mehta" width="100%" />
+</div>
 
 <br>
 
-<!-- 3. Tech Stack Elliptical Orbits (Links to Project Atlas Shaders) -->
-<a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/stack.svg?v=1" alt="Tech Stack Orbital Infrastructure" width="100%" />
-</a>
-
-<br>
-
-<!-- 4. Verified Identity Pass (Links to GitHub Profile) -->
-<a href="https://github.com/harshm13" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/id-dashboard.svg?v=1" alt="Verified Identity Pass & Telemetry" width="100%" />
-</a>
-
-<br>
-
-<!-- 5. Fully Clickable Connect Section: Every Card navigates to its Original Destination -->
-<table>
-  <tr>
-    <td rowspan="3" width="38%" valign="middle" align="center">
-      <a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/connect-character.svg?v=1" alt="Connect with Harsh Mehta" width="100%" />
-      </a>
-    </td>
-    <td width="31%" valign="top">
-      <a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/card-portfolio.svg?v=1" alt="Portfolio Studio" width="100%" />
-      </a>
-    </td>
-    <td width="31%" valign="top">
-      <a href="https://www.linkedin.com/in/harshm13" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/card-linkedin.svg?v=1" alt="LinkedIn" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="31%" valign="top">
-      <a href="https://github.com/harshm13" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/card-github.svg?v=1" alt="GitHub" width="100%" />
-      </a>
-    </td>
-    <td width="31%" valign="top">
-      <a href="https://www.instagram.com/mehta_harsh13" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/card-instagram.svg?v=1" alt="Instagram" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="31%" valign="top">
-      <a href="https://www.youtube.com/@harshm13" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/card-youtube.svg?v=1" alt="YouTube" width="100%" />
-      </a>
-    </td>
-    <td width="31%" valign="top">
-      <a href="mailto:hm1304008@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/card-email.svg?v=1" alt="Email Direct" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Quick Action Badges -->
 <p align="center">
-  <a href="https://projectatlass.ai.studio" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio%20Studio-070B16?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=070B16" alt="Portfolio Studio" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshm13" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070B16" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/harshm13" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=070B16" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/mehta_harsh13" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070B16" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@harshm13" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=070B16" alt="YouTube" />
-  </a>
-  <a href="mailto:hm1304008@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Direct%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B16" alt="Email" />
-  </a>
+  <strong>B.Tech IT (Cyber Security Honours) @ Silver Oak University</strong> · <strong>Ahmedabad, Gujarat, India</strong><br>
+  Aspiring Cybersecurity Learner &amp; Full-Stack Developer · Path: <code>Freelancing → Product → Startup</code>
 </p>
 
-</div>
-
 ---
 
-### 🚀 Production Systems & Featured Projects
+### 🚀 Selected Projects &amp; Current Work
 
 <table>
-  <thead>
-    <tr>
-      <th width="50%">System & Architecture</th>
-      <th width="50%">System & Architecture</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <h4>🌾 <a href="https://github.com/harshm13/AgroBridge-SIH26132">AgroBridge</a> <img src="https://img.shields.io/badge/SIH%20'26-GRAND%20FINALIST-10B981?style=flat-square" alt="SIH Finalist"/></h4>
-        <p>AI-driven agricultural decision engine and market intelligence platform. Combines XGBoost predictive price forecasting, SHAP model interpretability, and automated direct buyer matchmaking.</p>
-        <p><strong>Stack:</strong> <code>Python</code> · <code>FastAPI</code> · <code>XGBoost</code> · <code>SHAP</code> · <code>React</code></p>
-      </td>
-      <td valign="top">
-        <h4>⚡ <a href="https://github.com/harshm13/ProjectAtlas">Project Atlas</a> <a href="https://projectatlass.ai.studio" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square" alt="Live Demo"/></a></h4>
-        <p>Cinematic AI-inspired personal portfolio engineered with 60FPS particle mesh dynamics, GPU canvas vertex shaders, reactive soundscapes, and responsive glassmorphism styling.</p>
-        <p><strong>Stack:</strong> <code>React</code> · <code>Vite</code> · <code>Framer Motion</code> · <code>WebGL</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <h4>📄 <a href="https://github.com/harshm13/ResumeOS">ResumeOS</a></h4>
-        <p>AI Career Operating System featuring split-screen live builder, real-time ATS scoring algorithms, automated keyword extraction, and contextual resume tailoring.</p>
-        <p><strong>Stack:</strong> <code>React</code> · <code>Tailwind CSS v4</code> · <code>Framer Motion</code> · <code>AI APIs</code></p>
-      </td>
-      <td valign="top">
-        <h4>💻 <a href="https://github.com/harshm13/NexusVoid">Codex AI – NexusVoid</a></h4>
-        <p>Autonomous AI coding assistant platform featuring multi-step prompt workflow orchestration, sandboxed code execution, and live multi-language previews.</p>
-        <p><strong>Stack:</strong> <code>Node.js</code> · <code>Express</code> · <code>React</code> · <code>MongoDB</code> · <code>Groq LPU</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <h4>✈️ <a href="https://github.com/harshm13/GlobeTrotter-NexusVoid">GlobeTrotter</a> <img src="https://img.shields.io/badge/Hackathon-NexusVoid-818CF8?style=flat-square" alt="Hackathon"/></h4>
-        <p>High-performance travel itinerary planner engineered with automated multi-city expense calculation, smart scheduling algorithms, and a sleek glassmorphic UI.</p>
-        <p><strong>Stack:</strong> <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code></p>
-      </td>
-      <td valign="top">
-        <h4>♻️ <a href="https://github.com/harshm13/green_route_project">GreenRoute</a></h4>
-        <p>IoT-inspired municipal waste management ecosystem combining citizen recycling reward gamification with graph-optimized fleet vehicle dispatching.</p>
-        <p><strong>Stack:</strong> <code>React</code> · <code>FastAPI</code> · <code>Leaflet Maps</code> · <code>IoT APIs</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" valign="top">
-        <h4>🧠 <a href="https://github.com/harshm13/TaskMind">TaskMind</a></h4>
-        <p>AI-driven agile workspace engine with drag-and-drop Kanban state management, predictive blocker detection, and automated sprint velocity analytics.</p>
-        <p><strong>Stack:</strong> <code>React</code> · <code>Node.js</code> · <code>MongoDB</code> · <code>Groq API</code></p>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌾 <a href="https://github.com/harshm13/AgroBridge-SIH26132">AgroBridge</a></h4>
+      <p>Agricultural market-linkage and decision-support platform (SIH 2026 — SIH26132) with farmer dashboard, mandi price intelligence, buyer matching, and logistics insights.</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>React</code> · <code>FastAPI</code> · <code>SQLAlchemy</code> · <code>XGBoost</code> · <code>SHAP</code> · <em>Hackathon Project</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/harshm13/ProjectAtlas">ProjectAtlas</a> <a href="https://projectatlass.ai.studio"><img src="https://img.shields.io/badge/Live-Site-38BDF8?style=flat-square" alt="Live Site"/></a></h4>
+      <p>Personal developer portfolio featuring interactive UI, particle/visual effects, and responsive layout design, undergoing refinement and polish.</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>React</code> · <code>Vite</code> · <code>Framer Motion</code> · <em>Refinement in Progress</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 <a href="https://github.com/harshm13/ResumeOS">ResumeOS</a></h4>
+      <p>AI-powered Resume and Career Operating System with split-screen live builder, ATS analysis, keyword extraction, and contextual tailoring.</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>React</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>Framer Motion</code> · <code>React Hook Form</code> · <em>Under Development</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 <a href="https://github.com/harshm13/NexusVoid">Codex AI – NexusVoid</a></h4>
+      <p>AI-assisted coding platform focused on prompt orchestration, multi-step workflows, sandboxed execution, and code previews.</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>Node.js</code> · <code>Express.js</code> · <code>React</code> · <code>MongoDB</code> · <code>Groq API</code> · <em>Under Development</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✈️ <a href="https://github.com/harshm13/GlobeTrotter-NexusVoid">GlobeTrotter</a></h4>
+      <p>Multi-city travel planning platform for organizing itineraries, schedules, and budgets (Odoo × LDCE Hackathon — Team NexusVoid).</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>React</code> · <code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code> · <em>Hackathon Project</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>♻️ <a href="https://github.com/harshm13/green_route_project">GreenRoute</a></h4>
+      <p>Smart waste-management ecosystem combining citizen recycling rewards, waste-management dashboard, and map-based fleet route optimization.</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>React</code> · <code>FastAPI</code> · <code>Leaflet Maps</code> · <code>IoT APIs</code> · <em>Existing Project</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/harshm13/TaskMind">TaskMind</a></h4>
+      <p>Intelligent task and project-management workspace with Kanban boards, sprint analytics, and AI assistance.</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>React</code> · <code>Node.js</code> · <code>MongoDB</code> · <code>Groq API</code> · <em>Under Development</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⏱️ <a href="https://github.com/harshm13/LastMinuteLifeSaver">The Last Minute Life Saver</a></h4>
+      <p>AI-powered productivity assistant for task prioritization, time blocking, and micro-task breakdown under tight deadlines.</p>
+      <p><strong>Stack &amp; Focus:</strong> <code>AI &amp; Productivity</code> · <em>Under Development</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🏢 <a href="https://github.com/harshm13/harshm13">VendorBridge</a></h4>
+      <p>Vendor and procurement management concept covering vendor workflows, RFQ handling, quotation comparison, approvals, and invoice generation. <em>(Additional portfolio items: TransitOps – NexusVoid)</em></p>
+      <p><strong>Status:</strong> <em>Existing Project (Details &amp; Stack Verification Ongoing)</em></p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🏆 Hackathons & Engineering Achievements
+### 🛡️ Skills &amp; Current Learning Direction
 
-* 🏅 **Smart India Hackathon (SIH) 2026 — National Finalist**  
-  *Nominated from Silver Oak University for the National Grand Finale.* Architected **AgroBridge**, a production-grade machine learning platform delivering market price forecasting and transparent trade matchmaking for agricultural ecosystems.
-* ⚡ **Vibe2Ship Hackathon — Coding Ninjas x Google for Developers**  
-  Rapidly designed, prototyped, and shipped production-ready AI solutions under strict hackathon sprint constraints in India's premier developer competition.
-* 🌐 **Odoo x LDCE Hackathon — Team NexusVoid**  
-  Engineered the complete full-stack architecture and real-time budgeting algorithms for **GlobeTrotter**.
-* 📜 **AI Workshop Certification — TechSquarers**  
-  Completed the *"Build Your First AI"* intensive technical training on model training, LLM orchestration, and modern AI engineering pipelines.
+* **Full-Stack &amp; Web:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Vite, React Router, Framer Motion, React Hook Form, Node.js, Express.js, FastAPI, REST APIs, SQLAlchemy, MongoDB
+* **Languages &amp; AI Exposure:** C, Python (basics), Generative AI APIs, prompt orchestration, XGBoost, SHAP, AI-powered automation
+* **Tools:** Git, GitHub, VS Code, Linux fundamentals, CLI tools
+* **Cyber Security &amp; Infra (Foundational Learning):** Networking fundamentals (OSI/TCP-IP, DNS/HTTP), Linux &amp; OS basics, authentication/authorization, web &amp; API security (OWASP Top 10), Docker, CI/CD, and cloud/deployment concepts
 
 ---
 
-### 🌐 Verified Network Endpoints
+### 🌐 Links &amp; Updates
 
-<div align="center">
-
-| Channel | Endpoint | Description |
+| Platform | Link | Notes |
 | :--- | :--- | :--- |
-| 🌐 **Portfolio Studio** | [projectatlass.ai.studio](https://projectatlass.ai.studio) | Interactive 60FPS Cinematic Portfolio & Shaders |
-| 💻 **Atlas Source** | [harshm13/ProjectAtlas](https://github.com/harshm13/ProjectAtlas) | Portfolio Source Code & WebGL Particle Physics |
-| 🐙 **GitHub** | [@harshm13](https://github.com/harshm13) | Open-Source Systems, Microservices & Research |
-| 💼 **LinkedIn** | [/in/harshm13](https://www.linkedin.com/in/harshm13) | Professional Updates & Career Highlights |
-| 📸 **Instagram** | [@mehta_harsh13](https://www.instagram.com/mehta_harsh13) | Tech Videos, AI Workflows & Cinematic Code |
-| ▶️ **YouTube** | [@harshm13](https://www.youtube.com/@harshm13) | Architecture Demos, Tutorials & Hackathon Vlogs |
-| 📬 **Direct Email** | [hm1304008@gmail.com](mailto:hm1304008@gmail.com) | Engineering Roles, Collaborations & Opportunities |
-
-<br>
-
-⭐ *"Building intelligent systems, one line of code at a time."*
-
-</div>
+| 🌐 **Portfolio** | [projectatlass.ai.studio](https://projectatlass.ai.studio) | Personal Developer Portfolio |
+| 🐙 **GitHub** | [@harshm13](https://github.com/harshm13) | Repositories &amp; Code |
+| 💼 **LinkedIn** | [/in/harshm13](https://www.linkedin.com/in/harshm13) | Professional Profile &amp; Networking |
+| 📸 **Instagram** | [@harshm13.dev](https://www.instagram.com/harshm13.dev) | Dev &amp; CyberSec Updates |
+| ▶️ **YouTube** | [@everytimegaming13](https://www.youtube.com/@everytimegaming13) | Channel &amp; Video Content |
+| 📢 **WhatsApp Channel** | [Harsh Mehta \| Dev   &amp; CyberSec](https://whatsapp.com/channel/0029VbE1xb86mYPVCkFsk00h) | Broadcast Updates (Number Private) |
+| 📬 **Email** | [hm1304008@gmail.com](mailto:hm1304008@gmail.com) | Direct Contact |
